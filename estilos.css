@@ -1,0 +1,109 @@
+
+body{
+  text-align: center;
+}
+.section1{
+  background-color: #ff7b73;
+}
+/* LOGO */
+.logo{
+  width: 10%;
+}
+/* NAV BAR */
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.nav-item{
+  padding: 0.5rem;
+}
+
+.navbar-brand{
+  color: #fff;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2rem;
+}
+.navbar-brand:hover{
+  color: #FFF;
+}
+.nav-link{
+  font-family: "Montserrat";
+  color: #fff;
+  font-size: 1.2rem;
+}
+.nav-link:hover{
+  color: #FFF;
+}
+/* TITLE */
+h1{
+  padding-top: 0;
+  text-align: center;
+  color: #fff;
+  font-family: "Roboto";
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+.button-awesome{
+    margin: 5% 3% 5% 0;
+}
+.card{
+  width: 60%;
+  transform: rotate(25deg);
+}
+/* FEATURES SECTION */
+.section2{
+  padding: 7% 15%;
+}
+.features-box{
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color: #de4141;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff7b73;
+}
+h3{
+  font-family: "Roboto";
+  font-weight: 600;
+}
+p{
+  color: #8f8f8f;
+  font-family: "Roboto";
+}
+
+/* TESTIMONIALS */
+
+.section3{
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.testimonial-image{
+  width: 20%;
+  border-radius: 10%;
+  margin: 20px;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+
+}
+
+/* PRESS */
+.press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  border-radius: 10%;
+  width: 10%;
+  margin: 20px 20px 50px;
+}
